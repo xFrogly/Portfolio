@@ -1,5 +1,4 @@
 <p align="center">
-<img width="500" height="500" alt="image-removebg-preview (1)" src="https://github.com/user-attachments/assets/097090ce-2417-4f58-aa8c-db4e5af9a7c3" />
 </p>
 <h1 align="center">Personal portfolio</h1>
 

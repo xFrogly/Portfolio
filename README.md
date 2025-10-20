@@ -44,3 +44,6 @@ You can easily deploy this project using:
 ## 🧑‍💻 About
 
 Created by **xFrogly** — a Full-Stack Developer passionate about building fast, modern, and creative web applications.
+
+Join our Discord for help:  
+[![Support Server]](https://discord.gg/THNHYkh2aV)

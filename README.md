@@ -1,6 +1,5 @@
 <p align="center">
    <img width="1080" height="874" alt="image" src="https://github.com/user-attachments/assets/6c1295b9-17ff-4da6-880d-0eefecc90f87" />
-
 </p>
 <h1 align="center">Personal portfolio</h1>
 

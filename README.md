@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/favicon.svg" width="50" alt="Logo" />
+<img width="500" height="500" alt="Untitled_design-removebg-preview" src="https://github.com/user-attachments/assets/605c9c20-9176-4951-9bc8-2dd4929fd87d" />
 </p>
 <h1 align="center">Personal portfolio</h1>
 
